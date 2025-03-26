@@ -4,7 +4,6 @@ import json
 from api import cars_dict
 import re
 from bs4 import BeautifulSoup
-# TODO: NIGGER
 # api_key = 'https://pixabay.com/api/?key=41201136-a284cd4047281cd88fc9a7cd2&q=audi+a6&image_type=photo'
 # response = requests.get(api_key)
 # response_json = json.loads(response.text)
